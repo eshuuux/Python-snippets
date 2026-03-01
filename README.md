@@ -17,32 +17,6 @@ This repository includes:
 • Real-life utility scripts
 
 ---------------------
-Folder Structure (Planned)
----------------------
-
-python-daily-codes/
-
-│── basics/
-
-│── strings/
-
-│── lists/
-
-│── automation/
-
-│── file_handling/
-
-│── mini_projects/
-
-│── dsa_problems/
-
-│── api_scripts/
-
-│── utilities/
-
-└── README.md
-
----------------------
 What You Will Find Here
 ---------------------
 
@@ -55,25 +29,6 @@ Problem Solving:
 - Arrays, strings, stack/queue
 - Sorting and searching
 - Logic building questions
-
-Automation Examples:
-- File renaming
-- Folder organizer
-- Email or PDF automation
-- Basic web scraping
-
-Mini Python Projects:
-- To-do app
-- Password generator
-- Quiz program
-- Weather checker
-- Expense tracker
-
-Useful Real-Life Snippets:
-- JSON and CSV handling
-- Working with dates and time
-- APIs and requests
-- Regex examples
 
 ---------------------
 Learning Goals
